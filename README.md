@@ -1,6 +1,6 @@
-# pnpm-monorepo
+# Your Node.js v20 Menoreopo Project
 
-> A PNPM monorepo template for personal projects.
+> A PNPM monorepo template for Node.js v20 projects.
 
 ## What is in this repository?
 
@@ -34,7 +34,6 @@ NX is a cacheable build tool (and Monorepo manager). This project uses it to run
 # Instead of running `pnpm build`, run:
 nx run-many -t build
 ```
-
 
 ## License
 
