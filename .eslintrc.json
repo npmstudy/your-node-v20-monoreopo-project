@@ -7,20 +7,25 @@
   },
   "settings": {
     "import/parsers": {
-      "@typescript-eslint/parser": [".ts", ".tsx"]
+      "@typescript-eslint/parser": [
+        ".ts",
+        ".tsx"
+      ]
     },
     "import/resolver": {
       "typescript": {},
       "node": {
-        "extensions": [".js", ".jsx", ".ts", ".tsx"],
-        "moduleDirectory": ["node_modules", "src/"]
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".ts",
+          ".tsx"
+        ],
+        "moduleDirectory": [
+          "node_modules",
+          "src/"
+        ]
       }
-    },
-    "react": {
-      "version": "detect"
-    },
-    "ecmaFeatures": {
-      "jsx": true
     }
   },
   "extends": [
@@ -41,7 +46,12 @@
     "ecmaVersion": 11,
     "sourceType": "module"
   },
-  "plugins": ["import", "react", "react-hooks", "@typescript-eslint"],
+  "plugins": [
+    "import",
+    "react",
+    "react-hooks",
+    "@typescript-eslint"
+  ],
   "rules": {
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
@@ -52,9 +62,18 @@
       "warn",
       {
         "groups": [
-          ["builtin", "external"],
-          ["internal", "parent"],
-          ["sibling", "index"],
+          [
+            "builtin",
+            "external"
+          ],
+          [
+            "internal",
+            "parent"
+          ],
+          [
+            "sibling",
+            "index"
+          ],
           "object"
         ],
         "newlines-between": "always",
