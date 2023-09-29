@@ -6,7 +6,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "i5ting <i5ting@126.com>",
+  "author": "npmstudy <npmstudy@qq.com>",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
