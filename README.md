@@ -4,15 +4,21 @@
 
 ## What is in this repository?
 
-- [PNPM](https://pnpm.io/workspaces) as workspace manager and package manager.
-- [TSUP](https://tsup.egoist.dev/) as a TypeScript universal package.
+- [Tsup](https://tsup.egoist.dev/) as a TypeScript universal package.
 - [Tsx](https://github.com/esbuild-kit/tsx) as a Node.js enhanced with esbuild to run TypeScript & ESM
+- [Tsd](https://github.com/SamVerschueren/tsd) as type test runner
+- [Tsdoc](https://tsdoc.org/) as document
+- [PNPM](https://pnpm.io/workspaces) as workspace manager and package manager.
 - [Vitest](https://vitest.dev/) as a test runner.
 - [Size Limit](https://github.com/ai/size-limit) as a size limit plugin.
 - [Prettier](https://prettier.io/) as a code formatter.
 - [ESLint](https://eslint.org/) as a code linter.
 - [NX](https://nx.dev) as cacheable operations.
 - [Changesets](https://github.com/changesets/changesets/) as a way to manage changes and releases.
+- [c8](https://www.npmjs.com/package/c8) as coverage
+- [supertest](https://www.npmjs.com/package/supertest) as server test
+- [cypress](https://www.cypress.io/) as e2e test
+
 
 ## Using this repository
 
