@@ -47,8 +47,6 @@
   },
   "plugins": [
     "import",
-    "react",
-    "react-hooks",
     "@typescript-eslint"
   ],
   "rules": {
