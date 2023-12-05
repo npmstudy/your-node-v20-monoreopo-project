@@ -15,7 +15,9 @@
 - [ESLint](https://eslint.org/) as a code linter.
 - [NX](https://nx.dev) as cacheable operations.
 - [Changesets](https://github.com/changesets/changesets/) as a way to manage changes and releases.
-- [c8](https://www.npmjs.com/package/c8) as coverage
+- [@vitest/coverage-v8
+](https://www.npmjs.com/package/@vitest/coverage-v8
+) as coverage
 - [supertest](https://www.npmjs.com/package/supertest) as server test
 - [cypress](https://www.cypress.io/) as e2e test
 
