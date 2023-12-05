@@ -57,6 +57,7 @@
     }
   ],
   "dependencies": {
-    "@changesets/cli": "^2.26.2"
+    "@changesets/cli": "^2.26.2",
+    "eslint-plugin-react": "^7.33.2"
   }
 }
