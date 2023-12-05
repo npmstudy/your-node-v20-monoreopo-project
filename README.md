@@ -6,7 +6,7 @@
 
 - [Tsup](https://tsup.egoist.dev/) as a TypeScript universal package.
 - [Tsx](https://github.com/esbuild-kit/tsx) as a Node.js enhanced with esbuild to run TypeScript & ESM
-- [Tsd](https://github.com/SamVerschueren/tsd) as type test runner
+- ~~ [Tsd](https://github.com/SamVerschueren/tsd) as type test runner~~
 - [Tsdoc](https://tsdoc.org/) as document
 - [PNPM](https://pnpm.io/workspaces) as workspace manager and package manager.
 - [Vitest](https://vitest.dev/) as a test runner.
