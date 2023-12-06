@@ -8,7 +8,7 @@
 - [Tsx](https://github.com/esbuild-kit/tsx) as a Node.js enhanced with esbuild to run TypeScript & ESM
 - [Tsdoc](https://tsdoc.org/) as document
 - [PNPM](https://pnpm.io/workspaces) as workspace manager and package manager.
-- [Vitest](https://vitest.dev/) as a test runner. use vitest as type test instead of tsd
+- [Vitest](https://vitest.dev/) as a test runner，as type test instead of tsd
 - [Size Limit](https://github.com/ai/size-limit) as a size limit plugin.
 - [Prettier](https://prettier.io/) as a code formatter.
 - [ESLint](https://eslint.org/) as a code linter.
