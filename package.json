@@ -1,7 +1,9 @@
 {
   "name": "your-node-v20-menoreopo-project",
   "private": true,
-  "node": "^20.0.0",
+  "engines": {
+    "node": "^20.0.0"
+  },
   "scripts": {
     "build": "nx run-many -t build",
     "build:fast": "nx run-many -t build:fast",
