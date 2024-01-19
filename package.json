@@ -1,6 +1,9 @@
 {
   "name": "your-node-v20-menoreopo-project",
   "private": true,
+  "minecat": {
+    "type": "Node.js"
+  },
   "engines": {
     "node": "^20.0.0"
   },
